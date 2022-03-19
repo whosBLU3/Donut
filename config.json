@@ -1,0 +1,12 @@
+{
+    "[Comment] Remove Me! :)" : "[!] (pi Field) 7 Is Good Any Less May Cause Some Distortion",
+    "[Comment] Remove Me!! :)" : "[!] (characters Field) Characters: .,-~:;=!*#$@ or whatever you like",
+
+    "termWidth": 80,
+    "termHight": 24,
+    "characters": "cooldonutlol",
+    "pi": 7,
+    "spinSpeed": [
+        0.1000, 0.1000, 0.1000, 0.1000
+    ]
+  }
