@@ -1,6 +1,8 @@
 # Just For Fun 🍩
 
-<img align="left" src="https://i.ibb.co/M2xGDtv/Code-P8l-Xd-DWqwn.png" alt="logo.png" width="200" />
+<p align='center'>
+    <img src='https://i.ibb.co/M2xGDtv/Code-P8l-Xd-DWqwn.png?width=464&height=429'>
+</p>
 
 * Based off of -> [Click Me!](https://www.a1k0n.net/2011/07/20/donut-math.html)  
 
